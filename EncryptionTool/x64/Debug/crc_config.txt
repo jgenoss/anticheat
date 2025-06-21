@@ -1,0 +1,6 @@
+// crc_config.txt
+# Configuración de archivos protegidos
+# ruta_relativa,crc32,requerido
+game.exe,A1B2C3D4,true
+data/core.pak,E5F6G7H8,true
+assets/textures.pak,I9J0K1L2,false
