@@ -1,11 +1,1 @@
-/bin
-/ServerTCP/bin/Debug
-/packages
-Antihack/packages.config
-ServerTCP/packages.config
-/Antihack/obj
-/ServerTCP/obj/Debug
-/ServerTCP/obj
-/Encode_Decode/obj/Debug
-/Encode_Decode/obj/Release
-/WindowsServices/obj
+/_hide
